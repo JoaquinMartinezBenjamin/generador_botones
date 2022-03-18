@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=boton
+comment0.target=Paleta(java.lang.String)
+comment1.params=evento
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=java.lang.String\ librerias()
+comment3.params=
+comment3.target=java.lang.String\ declaracionClase()
+comment4.params=
+comment4.target=java.lang.String\ dimensionesVentana()
+comment5.params=
+comment5.target=void\ setDeclaracionVariables()
+comment6.params=cod
+comment6.target=void\ setCodigoBoton(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getCodigoBoton()
+comment8.params=
+comment8.target=java.lang.String\ getDeclaracionVariables()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
